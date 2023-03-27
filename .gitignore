@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 #Stuff I want to ignore
-.db
-.csv
+*.db
+*.csv
 
 # Distribution / packaging
 .Python
